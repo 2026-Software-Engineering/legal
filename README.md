@@ -1,0 +1,2 @@
+# privacy-policy
+안드로이드 개인정보 처리방침
